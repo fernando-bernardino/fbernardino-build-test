@@ -1,0 +1,8 @@
+server:
+  port: 9123
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://test:test123@localhost/test
+
